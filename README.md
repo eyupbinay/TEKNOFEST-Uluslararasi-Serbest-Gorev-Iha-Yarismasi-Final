@@ -8,3 +8,4 @@ Projede Ros, Slam, Rviz, Deep learning ve Python kullanıldı.
 ![WhatsApp Image 2022-08-01 at 15 44 57](https://user-images.githubusercontent.com/94199721/189327400-8dc6dd0a-6b25-439f-9bae-112fac93457b.jpeg)
 ![IMG_1076](https://user-images.githubusercontent.com/94199721/189327821-38af6fc3-cc09-40a0-9a86-ec6dfa63c0ce.JPG)
 ![IMG_0576](https://user-images.githubusercontent.com/94199721/189328076-f3082f11-b94d-462a-a3c0-db567ef83758.JPG)
+<img width="697" alt="Ekran Resmi 2022-09-09 13 20 43" src="https://user-images.githubusercontent.com/94199721/189328757-6635f18b-6d6b-4de0-b86d-dd8364d21f35.png">
